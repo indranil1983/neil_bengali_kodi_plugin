@@ -33,7 +33,7 @@ VIDEOS = {'News': [ {'name': 'ABP Ananda',
                        'genre': 'News'},
                       {'name': 'NDTV',
                        'thumb': 'https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png',
-                       'video': 'https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/index_352_av-p.m3u8?sd=6&b=256,384&set-segment-duration=quality&rebase=on',
+                       'video': 'https://dai.google.com/linear/hls/pa/event/FbL8YN7tSnqysJ6wVjKW7A/stream/9c4739ff-82fc-4261-894e-90f1351fe103:GRQ/variant/59e9c1a1ec2d224aa9b87368a701c27b/bandwidth/459008.m3u8',
                        'genre': 'News'}
                 ]}
 
